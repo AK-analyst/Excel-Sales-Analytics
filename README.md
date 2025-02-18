@@ -1,4 +1,4 @@
-# Sales&Finance Report - AtliQ Hardware - Excel Analytics
+# Sales&Finance Report - AtliQ Hardware - Excel
 
 Excel Sales Analytics is a data-driven project analyzing **sales and finance performance** using Excel. It includes reports on **Customer Performance, Market Trends, P&L, and Gross Margins**, leveraging **ETL, Power Query, Power Pivot, and DAX** for actionable insights. 📊🚀
 
